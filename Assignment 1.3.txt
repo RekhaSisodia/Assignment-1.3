@@ -1,0 +1,15 @@
+Assignment 1.3
+
+1. What are the different methods to call a function in R?
+Ans. function(arglist) {body}
+     where the code in curly braces is the body of the function
+
+2. The lazy evaluation of a function means, the argument is evaluated only if it is used inside the body of the 
+    function? True or False 
+Ans. True
+
+3. True or False
+1.Insights driven from descriptive analytics is not meaningful.-False
+2.The no. of values in each element of a list, should be equal.- True
+3.The datsets are not stored in memory of the computer using R.- False
+4.Data frames and matrices are two dimensional, however the array is multidimensional. -  True
